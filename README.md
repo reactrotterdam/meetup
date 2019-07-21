@@ -26,6 +26,11 @@ Official repository of https://www.meetup.com/React-Rotterdam/.
     * React: A framework for the mind - Michel Weststrate (@mweststrate)
     * Practical Preact - Phil Mander (@philmander)
 
+## Sponsors and Partners
+
+[![Mendix](./logos/Mendix.png)][mendix]
+[![O'Reilly Media](./logos/OReilly.png)][oreilly]
+
 [july-2019]: https://www.meetup.com/React-Rotterdam/events/262803775/
 [may-2019]: https://www.meetup.com/React-Rotterdam/events/260725401/
 [jan-2019]: https://www.meetup.com/React-Rotterdam/events/256340884/
@@ -35,3 +40,6 @@ Official repository of https://www.meetup.com/React-Rotterdam/.
 
 [coc-schield]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
 [code-of-conduct]: https://github.com/reactrotterdam/meetup/blob/master/CODE_OF_CONDUCT.md
+
+[mendix]: https://www.mendix.com/
+[oreilly]: https://www.oreilly.com/
