@@ -15,7 +15,7 @@ Official repository of https://www.meetup.com/React-Rotterdam/.
 * [January 2019][jan-2019]
     * How does code sound - Felienne Hermans (@Felienne)
     * The Fun of run-time type systems - Michel Weststrate (@mweststrate)
-* [September 2018][sep-2019]
+* [September 2018][sep-2018]
     * Next.js - Tim Neutkens (@timneutkens)
     * Declarative data fetching with the 'Async' component - Gert Hengeveld (@GHengeveld)
     * Actor Model in JavaScript - Ismail Habib Muhammad (@habsq)
