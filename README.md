@@ -1,6 +1,6 @@
 # React Rotterdam
 
-[![Code of Conduct][coc-schield]][code-of-conduct]
+[![Code of Conduct][code-of-conduct-schield]][code-of-conduct] [![Slack][slack-shield]][slack]
 
 Official repository of https://www.meetup.com/React-Rotterdam/.
 
@@ -39,10 +39,12 @@ Official repository of https://www.meetup.com/React-Rotterdam/.
 [jun-2018]: https://www.meetup.com/React-Rotterdam/events/249414995/
 [feb-2018]: https://www.meetup.com/React-Rotterdam/events/245132592/
 
-[coc-schield]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
+[code-of-conduct-schield]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
 [code-of-conduct]: https://github.com/reactrotterdam/meetup/blob/master/CODE_OF_CONDUCT.md
+[slack-shield]: https://img.shields.io/badge/chat-on%20slack-brightgreen.svg?style=flat-square
+[slack]: https://reactrotterdam.slack.com
 
-[mendix-logo]: ./logos/Mendix.png
+[mendix-logo]: ./logos/Mendix.png 
 [oreilly-logo]: ./logos/OReilly.png
 [mendix]: https://www.mendix.com/
 [oreilly]: https://www.oreilly.com/
