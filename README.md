@@ -28,9 +28,8 @@ Official repository of https://www.meetup.com/React-Rotterdam/.
 
 ## Sponsors and Partners
 
-[![Mendix][mendix-logo]][mendix]
 
-[![O'Reilly Media][oreilly-logo]][oreilly]
+[<img src="./logos/Mendix.png" alt="Mendix" width="200">][mendix] [<img src="./logos/OReilly.png" alt="O'Reilly Media" width="200">][oreilly]
 
 [july-2019]: https://www.meetup.com/React-Rotterdam/events/262803775/
 [may-2019]: https://www.meetup.com/React-Rotterdam/events/260725401/
@@ -44,7 +43,5 @@ Official repository of https://www.meetup.com/React-Rotterdam/.
 [slack-shield]: https://img.shields.io/badge/chat-on%20slack-brightgreen.svg?style=flat-square
 [slack]: https://reactrotterdam.slack.com
 
-[mendix-logo]: ./logos/Mendix.png 
-[oreilly-logo]: ./logos/OReilly.png
 [mendix]: https://www.mendix.com/
 [oreilly]: https://www.oreilly.com/
