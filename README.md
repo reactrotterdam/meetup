@@ -2,7 +2,7 @@
 
 [![Code of Conduct][code-of-conduct-schield]][code-of-conduct] [![Slack][slack-shield]][slack]
 
-Official repository of https://www.meetup.com/React-Rotterdam/.
+React.Rotterdam is an independent meetup aimed at knowledge sharing, learning something new and meeting other people in the community. You can find more information about our latest events on [Meetup](https://www.meetup.com/React-Rotterdam/).
 
 ## Past Meetups
 
@@ -27,7 +27,6 @@ Official repository of https://www.meetup.com/React-Rotterdam/.
     * Practical Preact - Phil Mander (@philmander)
 
 ## Sponsors and Partners
-
 
 [<img src="./logos/Mendix.png" alt="Mendix" width="200">][mendix] [<img src="./logos/OReilly.png" alt="O'Reilly Media" width="200">][oreilly]
 
