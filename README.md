@@ -2,29 +2,36 @@
 
 [![Code of Conduct][code-of-conduct-schield]][code-of-conduct] [![Slack][slack-shield]][slack]
 
-React.Rotterdam is an independent meetup aimed at knowledge sharing, learning something new and meeting other people in the community. You can find more information about our latest events on [Meetup](https://www.meetup.com/React-Rotterdam/).
+React Rotterdam is an independent meetup aimed at knowledge sharing, learning something new and meeting other people in the community. You can find more information about our latest events on [Meetup](https://www.meetup.com/React-Rotterdam/).
 
 ## Past Meetups
 
 * [July 2019][july-2019]
-    * Life after Redux: Handling State-Management in React with Context and Hooks - Roy Derks (@gethackteam)
-    * Writing terminal applications with React - Norbert de Langen (@NorbertDeLangen)
+    * Life after Redux: Handling State-Management in React with Context and Hooks - Roy Derks [@gethackteam](https://twitter.com/gethackteam)
+    * Writing terminal applications with React - Norbert de Langen [@NorbertDeLangen](https://twitter.com/NorbertDeLangen)
 * [May 2019][may-2019]
-    * Why I am hooked on the future of React - Maurice de Beijer (@MauriceDB)
-    * Domain specific languages in React - Meinte Boersma (@meinte37)
+    * Why I am hooked on the future of React - Maurice de Beijer [@MauriceDB](https://twitter.com/MauriceDB)
+    * Domain specific languages in React - Meinte Boersma [@meinte37](https://twitter.com/meinte37)
 * [January 2019][jan-2019]
-    * How does code sound - Felienne Hermans (@Felienne)
-    * The Fun of run-time type systems - Michel Weststrate (@mweststrate)
+    * How does code sound - Felienne Hermans [@Felienne](https://twitter.com/Felienne)
+    * The Fun of run-time type systems - Michel Weststrate [@mweststrate](https://twitter.com/mweststrate)
 * [September 2018][sep-2018]
-    * Next.js - Tim Neutkens (@timneutkens)
-    * Declarative data fetching with the 'Async' component - Gert Hengeveld (@GHengeveld)
-    * Actor Model in JavaScript - Ismail Habib Muhammad (@habsq)
+    * Next.js - Tim Neutkens [@timneutkens](https://twitter.com/timneutkens)
+    * Declarative data fetching with the 'Async' component - Gert Hengeveld [@GHengeveld](https://twitter.com/GHengeveld)
+    * Actor Model in JavaScript - Ismail Habib Muhammad [@habsq](https://twitter.com/habsq)
 * [June 2018][jun-2018]
-    * Journey to an efficient full development stack - Kees Kluskens (@keeskluskens)
-    * How to maintaining component libraries with Storybook - Norbert de Langen (@NorbertDeLangen)
+    * Journey to an efficient full development stack - Kees Kluskens [@keeskluskens](https://twitter.com/keeskluskens)
+    * How to maintaining component libraries with Storybook - Norbert de Langen [@NorbertDeLangen](https://twitter.com/NorbertDeLangen)
 * [Febuary 2018][feb-2018]
-    * React: A framework for the mind - Michel Weststrate (@mweststrate)
-    * Practical Preact - Phil Mander (@philmander)
+    * React: A framework for the mind - Michel Weststrate [@mweststrate](https://twitter.com/mweststrate)
+    * Practical Preact - Phil Mander [@philmander](https://twitter.com/philmander)
+
+## Organisation team
+
+This meetup is organised by a small team of volunteers:
+* Ivan Zub [@zubivan](https://twitter.com/zubivan) [LinkedIn](https://nl.linkedin.com/in/ivanzub/en)
+* Jef Hellemans [LinkedIn](https://nl.linkedin.com/in/jefhellemans)
+* Michel Weststrate [@mweststrate](https://twitter.com/mweststrate)
 
 ## Sponsors and Partners
 
