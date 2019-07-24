@@ -37,6 +37,10 @@ This meetup is organised by a small team of volunteers:
 
 Interested in presenting at one of our next meetups? Contact us using one of the methods above or reach out via email to Ivan Zub (ivan.zub at mendix.com) and Jef Hellemans (jef.hellemans at mendix.com) for details.
 
+Or [Create an Issue][issues] with your talk proposal and one of the team members will reach out to you.
+
+Noticed a typo or an improvement, fork and create a [Pull Request][pull-requests]!
+
 ## Stay in touch
 
 We see us as an active technical community outside of the meetups we organise, that's why we created a Slack space that everyone can join. [Join][slack] 
@@ -59,3 +63,6 @@ We see us as an active technical community outside of the meetups we organise, t
 
 [mendix]: https://www.mendix.com/
 [oreilly]: https://www.oreilly.com/
+
+[issues]: https://github.com/reactrotterdam/meetup/issues
+[pull-requests]: https://github.com/reactrotterdam/meetup/pulls
