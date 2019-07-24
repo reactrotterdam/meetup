@@ -37,6 +37,10 @@ This meetup is organised by a small team of volunteers:
 
 Interested in presenting at one of our next meetups? Contact us using one of the methods above or reach out via email to Ivan Zub (ivan.zub at mendix.com) and Jef Hellemans (jef.hellemans at mendix.com) for details.
 
+## Stay in touch
+
+We see us as an active technical community outside of the meetups we organise, that's why we created a Slack space that everyone can join. [Join][slack] 
+
 ## Sponsors and Partners
 
 [<img src="./logos/Mendix.png" alt="Mendix" width="200">][mendix] [<img src="./logos/OReilly.png" alt="O'Reilly Media" width="200">][oreilly]
