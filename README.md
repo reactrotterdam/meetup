@@ -31,7 +31,7 @@ React Rotterdam is an independent meetup aimed at knowledge sharing, learning so
 This meetup is organised by a small team of volunteers:
 * Ivan Zub [@zubivan](https://twitter.com/zubivan) [LinkedIn](https://nl.linkedin.com/in/ivanzub/en)
 * Jef Hellemans [LinkedIn](https://nl.linkedin.com/in/jefhellemans)
-* Michel Weststrate [@mweststrate](https://twitter.com/mweststrate)
+* Michel Weststrate [@mweststrate](https://twitter.com/mweststrate) (former inspirational leader and a source of great speakers)
 
 ## Contributing
 
