@@ -4,6 +4,10 @@
 
 React Rotterdam is an independent meetup aimed at knowledge sharing, learning something new and meeting other people in the community. You can find more information about our latest events on [Meetup](https://www.meetup.com/React-Rotterdam/).
 
+## Next Meetup
+
+Call for speakers for the autumn edition of React Rotterdam is open. Please refer to [Contributing](#Contributing) section for more information.
+
 ## Past Meetups
 
 * [July 2019][july-2019]
