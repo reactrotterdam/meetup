@@ -43,7 +43,7 @@ Noticed a typo or an improvement, fork and create a [Pull Request][pull-requests
 
 ## Stay in touch
 
-We see us as an active technical community outside of the meetups we organise, that's why we created a Slack space that everyone can join. [Join][slack] 
+We see us as an active technical community outside of the meetups we organise, that's why we created a [Slack space][slack] that everyone can join.
 
 ## Sponsors and Partners
 
