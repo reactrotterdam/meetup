@@ -63,7 +63,7 @@ We see us as an active technical community outside of the meetups we organise, t
 [code-of-conduct-schield]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
 [code-of-conduct]: https://github.com/reactrotterdam/meetup/blob/master/CODE_OF_CONDUCT.md
 [slack-shield]: https://img.shields.io/badge/chat-on%20slack-brightgreen.svg?style=flat-square
-[slack]: https://reactrotterdam.slack.com
+[slack]: https://join.slack.com/t/reactrotterdam/shared_invite/enQtNzAxNjU5MDQ0NDIzLTM2ZmY0NjVkZWQwMmUxOTExM2JlZTIxYzI2NWNlMGMwNmVmMTA2YjY2M2VjMzUyMmFlZTNkZjJkZTRjOWI5ZGY
 
 [mendix]: https://www.mendix.com/
 [oreilly]: https://www.oreilly.com/
