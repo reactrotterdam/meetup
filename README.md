@@ -26,7 +26,7 @@ Call for speakers for the autumn edition of React Rotterdam is open. Please refe
 * [June 2018][jun-2018]
     * Journey to an efficient full development stack - Kees Kluskens [@keeskluskens](https://twitter.com/keeskluskens)
     * How to maintaining component libraries with Storybook - Norbert de Langen [@NorbertDeLangen](https://twitter.com/NorbertDeLangen)
-* [Febuary 2018][feb-2018]
+* [February 2018][feb-2018]
     * React: A framework for the mind - Michel Weststrate [@mweststrate](https://twitter.com/mweststrate)
     * Practical Preact - Phil Mander [@philmander](https://twitter.com/philmander)
 
