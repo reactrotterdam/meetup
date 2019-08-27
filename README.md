@@ -4,9 +4,15 @@
 
 React Rotterdam is an independent meetup aimed at knowledge sharing, learning something new and meeting other people in the community. You can find more information about our latest events on [Meetup](https://www.meetup.com/React-Rotterdam/).
 
+## Call for speakers
+
+Call for speakers for the next edition of React Rotterdam is always open. Please refer to [Contributing](#Contributing) section for more information.
+
 ## Next Meetup
 
-Call for speakers for the autumn edition of React Rotterdam is open. Please refer to [Contributing](#Contributing) section for more information.
+* [October 2019][oct-2019]
+   * Using rxjs with React Native - Pavlos Vinieratos [@pvinis](https://twitter.com/pvinis)
+   * Expose your Kafka with GraphQL - Gerard Klijs [@gklijs](https://twitter.com/gklijs)
 
 ## Past Meetups
 
@@ -53,6 +59,7 @@ We see us as an active technical community outside of the meetups we organise, t
 
 [<img src="./logos/Mendix.png" alt="Mendix" width="200">][mendix] [<img src="./logos/OReilly.png" alt="O'Reilly Media" width="200">][oreilly]
 
+[oct-2019]: https://www.meetup.com/React-Rotterdam/events/264307774/
 [july-2019]: https://www.meetup.com/React-Rotterdam/events/262803775/
 [may-2019]: https://www.meetup.com/React-Rotterdam/events/260725401/
 [jan-2019]: https://www.meetup.com/React-Rotterdam/events/256340884/
