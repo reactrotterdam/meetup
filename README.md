@@ -6,7 +6,11 @@ React Rotterdam is an independent meetup aimed at knowledge sharing, learning so
 
 ## Call for speakers
 
-Call for speakers for the next edition of React Rotterdam is always open. Please refer to [Contributing](#Contributing) section for more information.
+Call for speakers for the next edition of React Rotterdam is always open.
+
+If you want to present on one of the next meetups please refer to next [Call for Speakers](https://github.com/reactrotterdam/meetup/issues/4) issue.
+
+If you want to get in touch with the team check out the [Contributing](#Contributing) section for more information.
 
 ## Next Meetup
 
