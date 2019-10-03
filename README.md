@@ -14,12 +14,13 @@ If you want to get in touch with the team check out the [Contributing](#Contribu
 
 ## Next Meetup
 
-* [October 2019][oct-2019]
-   * Using rxjs with React Native - Pavlos Vinieratos [@pvinis](https://twitter.com/pvinis)
-   * Expose your Kafka with GraphQL - Gerard Klijs [@gklijs](https://twitter.com/gklijs)
+Call for speakers for out next meetup is open!
 
 ## Past Meetups
 
+* [October 2019][oct-2019]
+   * Using rxjs with React Native - Pavlos Vinieratos [@pvinis](https://twitter.com/pvinis)
+   * Expose your Kafka with GraphQL - Gerard Klijs [@gklijs](https://twitter.com/gklijs)
 * [July 2019][july-2019]
     * Life after Redux: Handling State-Management in React with Context and Hooks - Roy Derks [@gethackteam](https://twitter.com/gethackteam)
     * Writing terminal applications with React - Norbert de Langen [@NorbertDeLangen](https://twitter.com/NorbertDeLangen)
