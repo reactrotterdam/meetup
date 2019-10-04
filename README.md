@@ -14,7 +14,7 @@ If you want to get in touch with the team check out the [Contributing](#Contribu
 
 ## Next Meetup
 
-Call for speakers for out next meetup is open!
+Call for speakers for our next meetup is open!
 
 ## Past Meetups
 
