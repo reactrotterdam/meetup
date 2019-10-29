@@ -14,7 +14,11 @@ If you want to get in touch with the team check out the [Contributing](#Contribu
 
 ## Next Meetup
 
-Call for speakers for our next meetup is open!
+[Call for speakers](https://github.com/reactrotterdam/meetup/issues/5) for our first meetup of 2020 is already open!
+
+* [November 2019][nov-2019]
+   * Going Component-Driven - Gert Hengeveld [@GHengeveld](https://twitter.com/GHengeveld)
+   * Get Reasonable with React - Wilfred Springer [@wilfredspringer](https://twitter.com/wilfredspringer)
 
 ## Past Meetups
 
@@ -64,6 +68,7 @@ We see us as an active technical community outside of the meetups we organise, t
 
 [<img src="./logos/Mendix.png" alt="Mendix" width="200">][mendix] [<img src="./logos/OReilly.png" alt="O'Reilly Media" width="200">][oreilly]
 
+[nov-2019]: https://www.meetup.com/React-Rotterdam/events/265895503/
 [oct-2019]: https://www.meetup.com/React-Rotterdam/events/264307774/
 [july-2019]: https://www.meetup.com/React-Rotterdam/events/262803775/
 [may-2019]: https://www.meetup.com/React-Rotterdam/events/260725401/
