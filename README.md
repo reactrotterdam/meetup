@@ -19,6 +19,9 @@ If you want to get in touch with the team check out the [Contributing](#Contribu
 * [November 2019][nov-2019]
    * Going Component-Driven - Gert Hengeveld [@GHengeveld](https://twitter.com/GHengeveld)
    * Get Reasonable with React - Wilfred Springer [@wilfredspringer](https://twitter.com/wilfredspringer)
+* [January 2020][jan-2020]
+   * Building user interfaces with finite state machines - Wilco Schoneveld [@wilcoschoneveld](https://twitter.com/wilcoschoneveld)
+   * React Suspense, not just for Alfred Hitchcock - Maurice de Beijer [@MauriceDB](https://twitter.com/MauriceDB)    
 
 ## Past Meetups
 
@@ -68,6 +71,7 @@ We see us as an active technical community outside of the meetups we organise, t
 
 [<img src="./logos/Mendix.png" alt="Mendix" width="200">][mendix] [<img src="./logos/OReilly.png" alt="O'Reilly Media" width="200">][oreilly]
 
+[jan-2020]: https://www.meetup.com/React-Rotterdam/events/266520214/
 [nov-2019]: https://www.meetup.com/React-Rotterdam/events/265895503/
 [oct-2019]: https://www.meetup.com/React-Rotterdam/events/264307774/
 [july-2019]: https://www.meetup.com/React-Rotterdam/events/262803775/
