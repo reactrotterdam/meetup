@@ -14,7 +14,7 @@ If you want to get in touch with the team check out the [Contributing](#Contribu
 
 ## Next Meetup
 
-[Call for speakers](https://github.com/reactrotterdam/meetup/issues/5) for our first meetup of 2020 is already open!
+[Call for speakers](https://github.com/reactrotterdam/meetup/issues/8) for our second meetup of 2020 is already open!
 
 * [November 2019][nov-2019]
    * Going Component-Driven - Gert Hengeveld [@GHengeveld](https://twitter.com/GHengeveld)
