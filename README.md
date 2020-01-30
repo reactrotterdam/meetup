@@ -14,14 +14,13 @@ If you want to get in touch with the team check out the [Contributing](#Contribu
 
 ## Next Meetup
 
-[Call for speakers](https://github.com/reactrotterdam/meetup/issues/8) for our second meetup of 2020 is already open!
-
-* [January 2020][jan-2020]
-   * Building user interfaces with finite state machines - Wilco Schoneveld [@wilcoschoneveld](https://twitter.com/wilcoschoneveld)
-   * React Suspense, not just for Alfred Hitchcock - Maurice de Beijer [@MauriceDB](https://twitter.com/MauriceDB)    
+[Call for speakers](https://github.com/reactrotterdam/meetup/issues/8) for our second meetup of 2020 is already open!   
 
 ## Past Meetups
 
+* [January 2020][jan-2020]
+   * Building user interfaces with finite state machines - Wilco Schoneveld [@wilcoschoneveld](https://twitter.com/wilcoschoneveld)
+   * React Suspense, not just for Alfred Hitchcock - Maurice de Beijer [@MauriceDB](https://twitter.com/MauriceDB) 
 * [November 2019][nov-2019]
    * Going Component-Driven - Gert Hengeveld [@GHengeveld](https://twitter.com/GHengeveld)
    * Get Reasonable with React - Wilfred Springer [@wilfredspringer](https://twitter.com/wilfredspringer)
